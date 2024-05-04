@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubhsaxena
 - 👀 I’m interested in Web development
 - - 🌱 I’m currently learning Backend and Database
-- 💞️ I’m looking to collaborate on .
 - 📫 You can follow me on linkedin and github
 
 <!---
